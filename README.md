@@ -12,11 +12,8 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 
 ## 🚀 Demo
 
-[🔗 Link to Live Demo](#)  <!-- Add the link to your live demo here -->
+[🔗 Link to Live Demo](https://mohit15-web.github.io/todo_list/)  <!-- Add the link to your live demo here -->
 
-## 🖼️ Screenshots
-
-![Screenshot 1](screenshot1.png)  <!-- Add screenshots of your application -->
 
 ## 🛠️ Technologies Used
 
