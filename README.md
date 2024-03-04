@@ -7,8 +7,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 - ✅ Add tasks to the to-do list
 - ✔️ Mark tasks as completed
 - 🗑️ Delete tasks from the list
-- 🔍 Filter tasks by status (all, active, completed)
-- 🧹 Clear all completed tasks
+
 
 ## 🚀 Demo
 
