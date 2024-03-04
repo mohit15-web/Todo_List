@@ -26,4 +26,4 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   https://github.com/mohit15-web/todo_list.git
